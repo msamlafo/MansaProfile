@@ -86,3 +86,11 @@ h2 {
   width: 40vw;
   float: right;
 }
+#contact {
+  margin: 100px 230px;
+}
+#contact h3 {
+  font-family: 'Acme', sans-serif;
+  color: darkred;
+  font-size: 1.5rem;
+}
